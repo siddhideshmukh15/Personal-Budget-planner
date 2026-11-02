@@ -32,7 +32,7 @@ calculate their remaining balance.
 - Save budget details permanently using file handling
 - Add monthly expense reports
 - Set spending limits
-- Display expense categories separately
+- Display expense categories separately.
 
 ## Author
 **Siddhi Deshmukh**
