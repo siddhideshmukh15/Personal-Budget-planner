@@ -35,4 +35,4 @@ calculate their remaining balance.
 - Display expense categories separately
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
