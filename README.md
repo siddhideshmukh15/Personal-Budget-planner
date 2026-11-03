@@ -34,4 +34,4 @@ A beginner-friendly Python application that helps users manage their monthly inc
 - Display spending charts
 
 ## Author
-Siddhi Deshmukh
+**Siddhi Deshmukh**
