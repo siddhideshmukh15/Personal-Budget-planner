@@ -15,7 +15,7 @@ A beginner-friendly Python application that helps users manage their monthly inc
 
 ## Technologies Used
 - Python 3
-- VS Code
+- VS Code.
 
 ## Concepts Learned
 - Variables and data types
@@ -25,7 +25,7 @@ A beginner-friendly Python application that helps users manage their monthly inc
 - For loops
 - Exception handling
 - append() and sum() functions
-- Conditional statements
+- Conditional statements.
 
 ## Future Improvements
 - Save records permanently using file handling
