@@ -1,37 +1,35 @@
 # Personal Budget Planner
 
 ## Description
-A beginner-friendly Python application that helps users manage their monthly income and expenses, track spending, and monitor their remaining balance.
+A beginner-friendly Python application to manage personal income, expenses, and monthly budgets.
 
 ## Features
-- Add income
-- Add expenses with categories
-- View total income
-- Calculate total expenses
-- Check remaining balance
-- View expense history
-- Set a monthly budget limit
-- Receive warnings when expenses exceed the budget
+- Add and track income.
+- Record expenses by category.
+- View total income and expenses.
+- Check remaining balance.
+- Set a monthly budget.
+- Get a warning when expenses exceed the budget.
+- View expense history.
+- Delete recorded expenses.
 
 ## Technologies Used
 - Python 3
-- VS Code.
 
 ## Concepts Learned
 - Variables and data types
+- Lists and nested lists
 - While loops
-- If-elif-else conditions
-- Lists and dictionaries
-- For loops
-- Exception handling
-- append() and sum() functions
-- Conditional statements.
+- Conditional statements
+- User input
+- List methods (`append()` and `pop()`)
+- Built-in functions (`sum()`, `len()` and `enumerate()`)
 
 ## Future Improvements
-- Save records permanently using file handling
-- Generate monthly expense reports
-- Add expense editing and deletion
-- Display spending charts
+- Add date-wise expense tracking.
+- Generate monthly expense reports.
+- Add category-wise spending analysis.
+- Store data permanently.
 
 ## Author
 **Siddhi Deshmukh**
