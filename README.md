@@ -32,4 +32,4 @@ A beginner-friendly Python application to manage personal income, expenses, and 
 - Store data permanently.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
