@@ -37,4 +37,4 @@ A Python-based application to manage personal income, expenses, and monthly budg
 - Store data permanently.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
